@@ -11,7 +11,7 @@ public class EcoDeMensaje {
             // Ejecuta el script de Elixir
             ProcessBuilder pb = new ProcessBuilder(
             "C:\\Program Files\\Elixir\\bin\\elixir.bat",
-            "C:\\Users\\User\\OneDrive\\Documentos\\programacion 3 21-08-2025\\EcoDeMensaje.exs",
+            "C:\\Users\\User\\OneDrive\\Documentos\\programacion 3 21-08-2025\\Tarea-3-ejercicios\\EcoDeMensaje.exs",
             mensaje);  
             pb.redirectErrorStream(true);
             Process process = pb.start();

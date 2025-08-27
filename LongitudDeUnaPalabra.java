@@ -14,7 +14,7 @@ public class LongitudDeUnaPalabra {
             // Esto ejecuta el script de Elixir y le pasa la palabra como un argumento.
             ProcessBuilder pb = new ProcessBuilder(
             "C:\\Program Files\\Elixir\\bin\\elixir.bat",
-            "C:\\Users\\User\\OneDrive\\Documentos\\programacion 3 21-08-2025\\LongitudDeUnaPalabra.exs",
+            "C:\\Users\\User\\OneDrive\\Documentos\\programacion 3 21-08-2025\\Tarea-3-ejercicios\\LongitudDeUnaPalabra.exs",
             palabra);
         
 

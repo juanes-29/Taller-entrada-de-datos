@@ -13,7 +13,7 @@ public class Salario {
             // Ejecuta el script de Elixir con los argumentos
             ProcessBuilder pb = new ProcessBuilder(
                 "C:\\Program Files\\Elixir\\bin\\elixir.bat",
-                "C:\\Users\\User\\OneDrive\\Documentos\\programacion 3 21-08-2025\\Salario.exs",
+                "C:\\Users\\User\\OneDrive\\Documentos\\programacion 3 21-08-2025\\Tarea-3-ejercicios\\Salario.exs",
                 horas.trim(),
                 valor_hora.trim()
             );
